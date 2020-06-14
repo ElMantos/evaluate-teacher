@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 
 function App() {
   return (
-    <div class="app py-5">
+    <div className="app py-5">
       <div className="container">
         <Main />
       </div>

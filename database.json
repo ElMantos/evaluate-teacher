@@ -1,0 +1,123 @@
+{
+  "teachers": [
+    {
+      "img": "https://i1.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/s-brusokaite.jpg?fit=150%2C150&ssl=1",
+      "name": "Sandra Lideikė",
+      "email": "s.lideike@eif.viko.lt",
+      "description": "lektorė",
+      "comments": []
+    },
+    {
+      "img": "https://i2.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/m-gzegozevskis.jpg?fit=150%2C150&ssl=1",
+      "name": "Marius Gžegoževskis",
+      "email": "m.gzegozevskis@eif.viko.lt",
+      "description": "lektorius",
+      "comments": []
+    },
+    {
+      "img": "https://i2.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/s-kubilinskiene.jpg?fit=150%2C150&ssl=1",
+      "name": "Dr. Svetlana Kubilinskienė",
+      "email": "s.kubilinskiene@eif.viko.lt",
+      "description": "docentė",
+      "comments": []
+    },
+    {
+      "img": "https://i1.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/v-kuklierius.jpg?fit=150%2C150&ssl=1",
+      "name": "Virgilijus Kuklierius",
+      "email": "v.kuklierius@eif.viko.lt",
+      "description": "lektorius",
+      "comments": []
+    },
+    {
+      "img": "https://i0.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/m-liogys.jpg?fit=150%2C150&ssl=1",
+      "name": "Dr. Mindaugas Liogys",
+      "email": "m.liogys@eif.viko.lt",
+      "description": "docentas, katedros vedėjas",
+      "comments": []
+    },
+    {
+      "img": "https://i2.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/v-liubinas.jpg?fit=150%2C150&ssl=1",
+      "name": "",
+      "email": "v.liubinas@viko.lt",
+      "description": "lektorius",
+      "comments": []
+    },
+    {
+      "img": "https://i0.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/j-liutvinaviciene.jpg?fit=150%2C150&ssl=1",
+      "name": "Jelena Liutvinavičienė",
+      "email": "j.liutvinaviciene@eif.viko.lt",
+      "description": "lektorė",
+      "comments": []
+    },
+    {
+      "img": "https://i1.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/no_photo.png?fit=150%2C150&ssl=1",
+      "name": "Ramunė Mikonienė",
+      "email": "r.mikoniene@eif.viko.lt",
+      "description": "lektorė",
+      "comments": []
+    },
+    {
+      "img": "https://i2.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/a-morkuniene.jpg?fit=150%2C150&ssl=1",
+      "name": "Alma Morkūnienė",
+      "email": "a.morkuniene@eif.viko.lt",
+      "description": "lektorė",
+      "comments": []
+    },
+    {
+      "img": "https://i0.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/o-raudone.jpg?fit=150%2C150&ssl=1",
+      "name": "Orūnė Gibavičienė",
+      "email": "o.gibaviciene@eif.viko.lt",
+      "description": "lektorė",
+      "comments": []
+    },
+    {
+      "img": "https://i1.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/a-savickaite.jpg?fit=150%2C150&ssl=1",
+      "name": "Airina Savickaitė",
+      "email": "a.savickaite@eif.viko.lt",
+      "description": "lektorė",
+      "comments": []
+    },
+    {
+      "img": "https://i1.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/l-savulioniene.jpg?fit=150%2C150&ssl=1",
+      "name": "Dr. Loreta Savulionienė",
+      "email": "l.savulioniene@eif.viko.lt",
+      "description": "docentė",
+      "comments": []
+    },
+    {
+      "img": "https://i2.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/d-savulionis.jpg?fit=150%2C150&ssl=1",
+      "name": "Dainius Savulionis",
+      "email": "d.savulionis@eif.viko.lt",
+      "description": "lektorius",
+      "comments": []
+    },
+    {
+      "img": "https://i1.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/t-silvanavicius.jpg?fit=150%2C150&ssl=1",
+      "name": "Tomas Silvanavičius",
+      "email": "t.silvanavicius@eif.viko.lt",
+      "description": "lektorius",
+      "comments": []
+    },
+    {
+      "img": "https://i0.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/r-tumasonis.jpg?fit=150%2C150&ssl=1",
+      "name": "Dr. Romanas Tumasonis",
+      "email": "r.tumasonis@eif.viko.lt",
+      "description": "docentas",
+      "comments": []
+    },
+    {
+      "img": "https://i2.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/j-vaiciulyte.jpg?fit=150%2C150&ssl=1",
+      "name": "Jūratė Vaičiulytė",
+      "email": "j.vaiciulyte@eif.viko.lt",
+      "description": "lektorė",
+      "comments": []
+    },
+    {
+      "img": "https://i2.wp.com/eif.viko.lt/media/uploads/sites/5/2018/04/j-zailskas.jpg?fit=150%2C150&ssl=1",
+      "name": "Justinas Zailskas",
+      "email": "j.zailskas@eif.viko.lt",
+      "description": "lektorius",
+      "comments": []
+    }
+  ]
+}
