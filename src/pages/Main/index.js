@@ -22,11 +22,9 @@ function Main() {
 
       <FirebaseDatabaseNode path="teachers">
         {data => {
-          console.log(data);
           if (!data.value) {
             return <Loader />;
           }
-          console.log(data);
           return data.value.map((item, index) => (
             <div key={`${item}_${index}`} className="mb-4">
               <Card

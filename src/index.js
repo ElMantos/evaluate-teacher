@@ -16,7 +16,6 @@ const config = {
   databaseURL: process.env.REACT_APP_FIREBASE_URL,
   authDomain: process.env.REACT_APP_AUTH_URL
 };
-console.log(config);
 ReactDOM.render(
   <React.StrictMode>
     <FirebaseDatabaseProvider firebase={firebase} {...config}>
